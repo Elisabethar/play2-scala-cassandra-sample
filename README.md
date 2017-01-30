@@ -1,5 +1,7 @@
 # Play2 Scala Cassandra Sample App
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/1867f3c435af4fe49d892b4e76e38513)](https://www.codacy.com/app/harlamova/play2-scala-cassandra-sample?utm_source=github.com&utm_medium=referral&utm_content=Elisabethar/play2-scala-cassandra-sample&utm_campaign=badger)
+
 This Play Framework 2 sample application shows how to access Cassandra from Scala using the
 [DataStax Java Driver 2.0](http://www.datastax.com/documentation/developer/java-driver/2.0/index.html)
 and its asynchronous capabilities. The app allows to retrieve and store Songs (via JSON).
